@@ -1,2 +1,2 @@
-# GTV-Portfolio
-David Enyi Live Resume 
+# david-enyi-portfolio
+portfolio website for tech leader and edtech innovator 
